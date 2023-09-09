@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Iowar's GitHub stats](https://github-readme-stats.vercel.app/api?username=iowar&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **iowar/iowar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
